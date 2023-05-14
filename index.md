@@ -156,7 +156,8 @@ width:700px;
            
         </ul>
     </li>
-    <li><a href="brnaches.htm">Ветки проектов</a></li>
+    <li><a href="branches.htm">Ветки проектов</a></li>
+<li><a href="ignore.htm">Игнор-лист GitHub</a></li>
     <li><a href="tel:+79621508603"><img src="images/pozvonit.png" alt="Позвонить" title="Позвоните мне"></a></li>
     <li><a href="https://wa.me/79621508603?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D0%BC%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82)"><img src="images/napisat-v-vatsapp.png" alt="Написать в Вастапп" title="Напишите мне в WhatsApp"></a></li>       
 </ul>
