@@ -2,5 +2,6 @@
 .vscode
 *.suo
 *.ntvs*
-*.sin
+*.njsproj
+*.sln
 *.sw?
